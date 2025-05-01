@@ -12,7 +12,7 @@ function App() {
       <div className="container">
         <div className="card shadow p-4">
           <div className="d-flex justify-content-between align-items-center mb-4">
-            <h1 className="mb-0">License Data Extractor</h1>
+            <h1 className="mb-0">License Data Extractor Using Scanner to Generate Templates</h1>
             <button className="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#addInstructorModal">
               Add Instructor
             </button>
